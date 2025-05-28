@@ -4,4 +4,4 @@
 #######xhofe/alist:latest
 #支持指定架构
 #######--platform=linux/arm64 registry.k8s.io/sig-storage/csi-resizer:v1.9.0
---platform=linux/amd64 gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.13
+gcr.io/google-containers/k8s-dns-kube-dns-amd64:1.15.13
